@@ -1,4 +1,4 @@
-#que2
+#que4
 #Display all the orders along with product name ordered by a customer having Customer_Id=2
 use ecommerce;
 select P.pro_name,O.*,C.cus_name 
